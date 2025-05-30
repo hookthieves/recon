@@ -1,5 +1,5 @@
 
-# recon.sh 🕵
+# recon.sh
 
 `recon.sh` is a lightweight Bash script designed to streamline your web application reconnaissance process. Unlike automated scanners that execute tests and generate large outputs, this tool provides a curated list of useful recon and fuzzing commands tailored for manual and precise execution.
 
@@ -101,8 +101,3 @@ Inspired by methodologies in the **OSWA** course by Offensive Security.
 ## Legal Disclaimer
 
 This tool is intended for educational and authorized security testing purposes only. Do **not** use against systems you do not own or have explicit permission to test.
-
-```
-
-You can now copy this and save it as `README.md` in your GitHub project. Let me know if you'd like to internationalize, customize for different environments, or add a help/flag system to the script!
-```
